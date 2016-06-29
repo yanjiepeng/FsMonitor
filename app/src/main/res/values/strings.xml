@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FsMonitor</string>
+
+    <string name="title_name" >方盛注塑机监控看板</string>
+</resources>
